@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1. 项目/雅思-Writing/雅思-Writing-LR/LR/"}
+{"dg-publish":true,"permalink":"/1. 项目/雅思-Writing/雅思-Writing-LR/LR/","tags":["vacobulary","雅思"]}
 ---
 
 # 1. 表示升降
@@ -47,4 +47,39 @@
 	* Due to the invest was failed, the market's proportion of this company sank to 20% 
 	* Owing to ==the== US government's policy, the trade of world shrink by 20%.（国家前面要加the）
 	* Thanks to lack of innovation, the part of market slide to 20%
-	* 
+# 表示程度
+## 剧烈的
+* ACDMENG
+	* A
+		* abruptly
+		* appreciably
+	* C
+		* considerably
+	* D
+		* dramatically
+		* drastically
+	* M
+		* markedly
+	* E
+		* exponentially
+	* N
+		* noticeably
+	* G
+		* giantly
+	* S
+		* sudden
+		* sharply
+		* steeply
+		* substantially
+## 平缓的
+* SGM
+* S
+	* slowly
+	* slightly
+	* steadily
+* G
+	* gradually
+	* gently
+* M
+	* moderately
+	* marginally

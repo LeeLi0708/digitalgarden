@@ -71,6 +71,20 @@
 		* sharply
 		* steeply
 		* substantially
+* 造句
+	* Owing to the COVID-19, the sales of tourism abruptly decline to 20 billion.
+	* Thank==s== to the new policy was published, the rate of cities's content appreciably climbs to 70%
+	* Due to the auto technology, the rate of manufacture considerably grow by 20%
+	* After the cold snap, the temperature dramatically diminishes to 10.
+	* Since the company re-organization, the cost of operation ~~have~~ ==has== drastically shrunk.  
+	* As ~~the~~ ==a== result of algorithm optimization, the ability of system markedly rises by 20%.
+	* With ~~the~~ user growth, the loads of servers exponentially ascend to 70%.
+	* In light of material replacement, the durability of products noticeably swells to 70%
+	* On account of breakthrough technology, the ability of production giantly spikes by 90%
+	* After announced the information, the price of shocks sudden sinks to 20USD.
+	* The demands of loan sharply ~~fall~~ ==fell== to 20 billion after the interest rate ==was== adjusted by the Bank of China
+	* The terrain changes cause==s== the speed of the river steeply rises by 70%.
+	* The brand upgrade~~s~~ ==upgraded== led to the market~~'s~~ share substantially expends to 25%.
 ## 平缓的
 * SGM
 * S
